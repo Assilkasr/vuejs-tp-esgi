@@ -16,14 +16,14 @@ Nous avons choisi Vue.js 3 avec TypeScript pour apprendre ces technologies qui s
 
 ## Répartition du travail
 
-### Acil a travaillé sur :
+### Acil et Ikram ont travaillé sur :
 - **Frontend Vue.js** : Interface utilisateur, composants réutilisables
 - **Authentification** : Système de login/logout avec JWT
 - **Gestion d'état** : Stores Pinia pour les données
 - **Routing** : Navigation entre les pages
 - **Services API** : Communication avec le backend
 
-### Kadem a travaillé sur :
+### Kadem et Ikram ont travaillé sur :
 - **Backend Express** : API REST avec Node.js
 - **Base de données** : Schéma Prisma et SQLite
 - **Authentification backend** : Middleware JWT, hashage des mots de passe
